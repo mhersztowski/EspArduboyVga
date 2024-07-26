@@ -19,7 +19,7 @@
 #if defined(IPS135)
 #define SCREEN_WIDTH 135
 #define SCREEN_HEIGHT 240 // 122 VIS
-#define PS3GAMEPAD
+//#define PS3GAMEPAD
 #elif defined(IPS240)
 #define SCREEN_WIDTH 240
 #define SCREEN_HEIGHT 240
